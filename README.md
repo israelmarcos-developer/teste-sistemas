@@ -68,6 +68,6 @@ Authorization: Bearer {token}
 
 ---
 
-# Autorrd
+# Autores
 
 Felipe Pereira, Bruno dos Anjos
