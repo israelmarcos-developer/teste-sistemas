@@ -1,8 +1,8 @@
-# 📋 Plano de Teste – Sistema SRL
+# Plano de Teste – Sistema SRL
 
 ## 1. Escopo
 
-Validação completa da API REST do Sistema de Reservas de Laboratório (SRL), incluindo:
+Validação completa da API REST do Sistema de Reservas de Laboratório, incluindo:
 
 * Autenticação
 * Salas
